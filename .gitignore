@@ -1,0 +1,7 @@
+# .gitignore_global
+.DS_Store
+*.pyc
+.idea/
+projectList.py
+
+
